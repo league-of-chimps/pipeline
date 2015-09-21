@@ -1,0 +1,21 @@
+{
+    "name": "league-of-chimps/pipeline",
+    "description": "Callable Composition A.K.A Chain of Command Library",
+    "autoload": {
+        "psr-4": {
+            "Chimps\\Pipeline\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^2.3",
+        "behat/behat": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Holloway",
+            "email": "simon.holloway@hutchhouse.com"
+        }
+    ],
+    "require": {}
+}
